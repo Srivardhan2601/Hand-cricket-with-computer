@@ -1,0 +1,6 @@
+{
+  "name": "Hand Cricket Pro",
+  "description": "A polished Hand Cricket game where you play against the computer with toss mechanics, innings switching, and score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
